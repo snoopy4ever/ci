@@ -1,6 +1,14 @@
 {
   "name": "ci",
   "version": "0.0.1",
+  "keywords": ["ci"],
+  "homepage": "https://github.com/snoopy4ever/ci/",
+  "type": "library",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/snoopy4ever/ci/"
+  },
   "dependencies": {
     "npm": "^5.8.0"
   },
