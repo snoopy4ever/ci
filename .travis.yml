@@ -5,6 +5,3 @@ sudo: false
 matrix:
   include:
     - php: 5.6
-
-install:
- - '[[ "$TRAVIS_PHP_VERSION" = 5.6* ]] || composer install'
