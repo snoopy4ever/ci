@@ -3,5 +3,8 @@
   "version": "0.0.1",
   "dependencies": {
     "npm": "^5.8.0"
+  },
+  "scripts": {
+    "test": "ls -la"
   }
 }
